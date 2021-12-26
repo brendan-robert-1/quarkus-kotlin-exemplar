@@ -1,6 +1,5 @@
 package org.my.group.resource
 
-import org.my.group.model.Greeting
 import org.my.group.service.GreetingService
 import javax.ws.rs.GET
 import javax.ws.rs.Path
